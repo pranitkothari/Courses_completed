@@ -1,3 +1,3 @@
 # Courses Completed
-SCPD - CS230 - Deep Learning <br />
-SCPD - CS106B - Programming Abstractions <br />
+Stanford Center For Professional Development - CS230 - Deep Learning <br />
+Stanford Center For Professional Development - CS106B - Programming Abstractions <br />
